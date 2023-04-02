@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1620170374 source:c:\users\chiii\onedrive\bureau\projet fini sem2\eltcovid.c
+	<stdio.h>
+	<malloc.h>
+	"ELTPRIM.h"
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1619811731 c:\users\chiii\onedrive\bureau\projet fini sem2\eltprim.h
+	"ELTSDD.h"
+
+1619811727 c:\users\chiii\onedrive\bureau\projet fini sem2\eltsdd.h
+	"ELTCOVID.h"
+
+1619992627 c:\users\chiii\onedrive\bureau\projet fini sem2\eltcovid.h
+
+1619992705 source:c:\users\chiii\onedrive\bureau\projet fini sem2\lstcovid.c
+	<stdio.h>
+	<malloc.h>
+	"LSTPRIM.h"
+
+1619811732 c:\users\chiii\onedrive\bureau\projet fini sem2\lstprim.h
+	"LSTSDD.h"
+
+1619811733 c:\users\chiii\onedrive\bureau\projet fini sem2\lstsdd.h
+	"LSTCOVID.h"
+
+1619870976 c:\users\chiii\onedrive\bureau\projet fini sem2\lstcovid.h
+	"ELTPRIM.h"
+
+1620323122 source:c:\users\chiii\onedrive\bureau\projet fini sem2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LSTPRIM.h"
+	"ELTPRIM.h"
+	<string.h>
+
